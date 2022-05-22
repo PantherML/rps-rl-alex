@@ -10,6 +10,6 @@ How the environment works is by default it sets up a best out of 3 game. As the 
 1. Install python of course :stuck_out_tongue: 
 2. In the terminal run the follwing command `pip install pipenv --user` 
   - This installs a program that I use to simply virtual environments, library versions, etc. (feel free to ask why you should do this!)
-3. Maybe update the Pipfile to your python version (it has `3.8` set but if you are using a version such as `3.9` or `3.10` set it to that)
+3. Maybe update the `Pipfile` to your python version (it has `3.8` set but if you are using a version such as `3.9` or `3.10` set it to that)
 4. Next run in the terminal `pipenv install`, this will install everything you need! :smile:
 5. Finally, run `pipenv run jupyter lab`, this will open up jupyter lab and you will have a notebook called `Experiment` where you'll do your work
